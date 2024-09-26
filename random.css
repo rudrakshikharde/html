@@ -1,0 +1,35 @@
+.box{
+    height:500px;
+    width:500px;
+    background-color: blueviolet;
+}
+
+#first{
+    height:500px;
+    width:500px;
+    background-color: rgb(43, 226, 116);
+}
+
+#second{
+    height:500px;
+    width:500px;
+    background-color: rgb(145, 110, 70);
+}
+
+#third{
+    height:500px;
+    width:500px;
+    background-color: rgb(141, 226, 43);
+}
+
+#fourth{
+    height:500px;
+    width:500px;
+    background-color: rgb(226, 43, 153);
+}
+
+#fifth{
+    height:500px;
+    width:500px;
+    background-color: rgb(64, 43, 226);
+}
