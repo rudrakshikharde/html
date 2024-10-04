@@ -1,0 +1,106 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.box1{
+    height: 600px;
+    width: 600px;
+    background-color: aqua;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border: 2px solid black;
+}
+
+.box2{
+    height: 600px;
+    width: 600px;
+    background-color: aqua;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.box3{
+    height: 600px;
+    width: 600px;
+    background-color: aqua;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    border: 2px solid black;
+}
+
+.box4{
+    height: 600px;
+    width: 600px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.box5{
+    height: 600px;
+    width: 600px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border: 2px solid black;
+}
+
+.box6{
+    height: 600px;
+    width: 600px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    border: 2px solid black;
+}
+
+.a1{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+     border: 3px solid black;
+}
+
+.a2{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+     border: 3px solid black;
+}
+
+.a3{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+     border: 3px solid black;
+}
+
+.a4{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+     border: 3px solid black;
+}
+
+.a5{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+     border: 3px solid black;
+}
+
+.a6{
+    height: 200px;
+    width:200px;
+    background-color: orange;
+     border: 3px solid black;
+}
